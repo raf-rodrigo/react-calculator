@@ -1,0 +1,41 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+.number_zero {
+    width: 6.3em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: #000000;
+    border-radius: 1em;
+    text-align: center;
+    padding: 1em;
+}
+
+.orange {
+    background-color: #ff9500;
+    color: #ffffff;
+}
+
+.gray {
+    background-color: #505050;
+    color: #ffffff;
+}
+
+.result{
+    color: #ffffff;
+    text-align: right;
+    margin: 0.8em;
+    font-size: 3em;
+}
